@@ -1,4 +1,4 @@
-![лого](https://www.dropbox.com/scl/fi/vp4sv7kqie3alh1lbckzm/rebr.png?rlkey=x750xlqf12nsair20l02bsw8y&st=ho5kehhl&dl=1)
+![лого](https://drive.google.com/file/d/1Ls8hy_Dh0sRwJVhgVWZZDj8FLn7tI7GZ/view?usp=drivesdk)
 
 ## reBR - Создай обход для BLACK RUSSIA
 
@@ -10,4 +10,4 @@
 
 
 Ссылки:
-[![Превью профиля Skhymm](https://www.dropbox.com/scl/fi/zd90wu2ghf4aj4k0k24x0/643_20260809143304.png?rlkey=bmzs6uv9q3xei19vrtgs4pb10&st=i7v9xcqk&dl=1)](https://www.blast.hk/members/600638/)
+[![Превью профиля Skhymm](https://drive.google.com/file/d/1LQcV12ff_flRGuK0LzRC2KW_OJjBp737/view?usp=drivesdk)](https://www.blast.hk/members/600638/)
