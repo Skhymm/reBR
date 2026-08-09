@@ -1,0 +1,71 @@
+# reBR - ENet Offsets
+
+enet_initialize                    0x14efd38
+enet_deinitialize                  0x14efd40
+enet_host_create                   0x14eb28c
+enet_host_destroy                  0x14eb52c
+enet_host_connect                  0x14eb5f0
+enet_host_service                  0x14ede40
+enet_host_broadcast                0x14eb824
+enet_host_flush                    0x14ed4bc
+enet_host_check_events             0x14edcc0
+enet_host_random                   0x14eb5b4
+enet_host_random_seed              0x14efd44
+enet_host_bandwidth_limit          0x14eb934
+enet_host_bandwidth_throttle       0x14eb944
+
+enet_peer_send                     0x14ec18c
+enet_peer_receive                  0x14ec5e8
+enet_peer_disconnect               0x14ecbb8
+enet_peer_disconnect_now           0x14ecb38
+enet_peer_disconnect_later         0x14eccf8
+enet_peer_reset                    0x14ec9d0
+enet_peer_ping                     0x14eca98
+enet_peer_ping_interval            0x14ecaf4
+enet_peer_timeout                  0x14ecb08
+enet_peer_throttle                 0x14ec114
+enet_peer_throttle_configure       0x14ec004
+enet_peer_on_connect               0x14ec960
+enet_peer_on_disconnect            0x14ec998
+enet_peer_setup_outgoing_command   0x14ec490
+enet_peer_queue_outgoing_command   0x14ec088
+enet_peer_queue_incoming_command   0x14ed128
+enet_peer_queue_acknowledgement    0x14ecd4c
+enet_peer_dispatch_incoming_reliable_commands  0x14ed028
+enet_peer_dispatch_incoming_unreliable_commands 0x14ece28
+enet_peer_has_outgoing_commands    0x14eccbc
+
+enet_packet_create                 0x14ebe0c
+enet_packet_destroy                0x14ebeb8
+enet_packet_resize                 0x14ebf0c
+
+enet_socket_create                 0x14f01b4
+enet_socket_bind                   0x14f00a8
+enet_socket_connect                0x14f0448
+enet_socket_send                   0x14f057c
+enet_socket_receive                0x14f062c
+enet_socket_accept                 0x14f04e0
+enet_socket_listen                 0x14f01a4
+enet_socket_wait                   0x14f0768
+enet_socket_destroy                0x14f056c
+enet_socket_shutdown               0x14f0568
+enet_socket_get_option             0x14f03a0
+enet_socket_set_option             0x14f01cc
+enet_socket_get_address            0x14f0128
+enet_socketset_select              0x14f06f8
+
+enet_address_set_host              0x14efe94
+enet_address_set_host_ip           0x14efe70
+enet_address_get_host              0x14effa0
+enet_address_get_host_ip           0x14eff74
+
+enet_malloc                        0x14ebd34
+enet_free                          0x14ebd7c
+enet_crc32                         0x14ebf9c
+enet_linked_version                0x14ebd28
+enet_list_insert                   0x14ebd90
+enet_list_remove                   0x14ebdac
+enet_list_move                     0x14ebdbc
+enet_list_clear                    0x14ebd88
+enet_list_size                     0x14ebdec
+enet_protocol_command_size         0x14ed4a8

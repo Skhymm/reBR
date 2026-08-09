@@ -1,0 +1,44 @@
+# reBR - RPC Offsets
+# Идентификаторы RPC вызовов
+
+RPC_ClientJoin                     0x01
+RPC_ClientQuit                     0x02
+RPC_ClientSpawn                    0x03
+RPC_ClientUpdate                   0x04
+RPC_ServerSync                     0x05
+
+RPC_PlayerSync                     0x06
+RPC_VehicleSync                    0x07
+RPC_PickupSync                     0x08
+RPC_ActorSync                      0x09
+
+RPC_TextDraw                       0x0A
+RPC_Dialog                         0x0B
+RPC_Chat                           0x0C
+RPC_Command                        0x0D
+
+RPC_Login                          0x0E
+RPC_Register                       0x0F
+
+RPC_Ping                           0x10
+RPC_Pong                           0x11
+RPC_Stats                          0x12
+RPC_Inventory                      0x13
+RPC_Shop                           0x14
+RPC_Job                            0x15
+RPC_Faction                        0x16
+RPC_House                          0x17
+RPC_Vehicle                        0x18
+
+RPC_Unknown_19                     0x19
+RPC_Unknown_20                     0x1A
+RPC_Unknown_21                     0x1B
+RPC_Unknown_22                     0x1C
+RPC_Unknown_23                     0x1D
+RPC_Unknown_24                     0x1E
+RPC_Unknown_25                     0x1F
+RPC_Unknown_26                     0x20
+RPC_Unknown_27                     0x21
+RPC_Unknown_28                     0x22
+RPC_Unknown_29                     0x23
+RPC_Unknown_30                     0x24

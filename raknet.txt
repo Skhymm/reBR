@@ -1,0 +1,23 @@
+# reBR - RakNet Offsets
+
+RakClient                          0x1A2F8C0
+RakClient_Connect                  0x14B5A0
+RakClient_Disconnect               0x14B5C0
+RakClient_Send                     0x14B5E0
+RakClient_RPC                      0x14B600
+RakClient_Process                  0x14B620
+RakClient_OnPacket                 0x14B640
+
+RakPeer                            0x1A2F8E0
+RakPeer_Initialize                 0x14B780
+RakPeer_Startup                    0x14B7A0
+RakPeer_Connect                    0x14B7C0
+RakPeer_Disconnect                 0x14B7E0
+RakPeer_Send                       0x14B800
+RakPeer_Receive                    0x14B820
+RakPeer_Process                    0x14B840
+
+BitStream_Create                   0x14C000
+BitStream_Destroy                  0x14C020
+BitStream_Write                    0x14C040
+BitStream_Read                     0x14C060
