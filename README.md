@@ -1,4 +1,4 @@
-![лого](https://drive.google.com/file/d/1Ls8hy_Dh0sRwJVhgVWZZDj8FLn7tI7GZ/view?usp=drivesdk)
+![лого](rebr.png)
 
 ## reBR - Создай обход для BLACK RUSSIA
 
@@ -9,5 +9,4 @@
 - Raknet, Rpc, enet
 
 
-Ссылки:
-[![Превью профиля Skhymm](https://drive.google.com/file/d/1LQcV12ff_flRGuK0LzRC2KW_OJjBp737/view?usp=drivesdk)](https://www.blast.hk/members/600638/)
+[![Превью профиля Skhymm](bh.png)](https://www.blast.hk/members/600638/)
